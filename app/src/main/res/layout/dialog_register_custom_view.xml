@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <EditText
+        android:id="@+id/register_account"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="账号"/>
+    <EditText
+        android:id="@+id/register_password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="密码"/>
+    <EditText
+        android:id="@+id/register_mail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="邮箱"/>
+</LinearLayout>

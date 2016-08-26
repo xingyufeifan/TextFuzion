@@ -24,8 +24,10 @@ dependencies {
     testCompile 'junit:junit:4.12'
     compile 'com.android.support:appcompat-v7:24.0.0-beta1'
     compile files('libs/avoscloud-mixpush-v3.14.3.jar')
-
+    compile 'com.afollestad.material-dialogs:core:0.9.0.1'
     compile 'com.jakewharton:butterknife:8.2.1'
     apt 'com.jakewharton:butterknife-compiler:8.2.1'
-    compile 'com.orhanobut:logger:1.10'  //Log控制
+    compile 'com.orhanobut:logger:1.10'
+    //Log控制
+    compile 'junit:junit:4.12'
 }
