@@ -1,4 +1,4 @@
-package com.chendong.game.textfuzion;
+package com.chendong.game.textfuzion.activity;
 
 import android.app.Activity;
 import android.os.Bundle;
